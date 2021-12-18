@@ -1,0 +1,6 @@
+[ 9147.255126] [ 5853]     0  5853   366672   241680  2568192    69434             0 bash
+[ 9147.256300] Out of memory: Killed process 5853 (bash) total-vm:1466688kB, anon-rss:966720kB, file-rss:0kB, shmem-rss:0kB, UID:0
+[ 9147.255408] [ 5854]     0  5854   346572   175016  2412544   115990             0 bash
+[ 9440.871618] [ 5854]     0  5854   659722   418967  4923392   185189             0 bash
+[ 9440.872430] Out of memory: Killed process 5854 (bash) total-vm:2638888kB, anon-rss:1675860kB, file-rss:8kB, shmem-rss:0kB, UID:0
+[ 9440.978758] oom_reaper: reaped process 5854 (bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB

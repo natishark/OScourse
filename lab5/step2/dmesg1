@@ -1,0 +1,2 @@
+[ 6056.090510] Out of memory: Killed process 2916 (bash) total-vm:2625388kB, anon-rss:1661168kB, file-rss:0kB, shmem-rss:0kB, UID:0
+[ 6056.164894] oom_reaper: reaped process 2916 (bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
